@@ -1,4 +1,4 @@
-## Olá, me chamo Adriele!
+## Olá!
 ## Bem vindo ao meu perfil GitHub 👋
 - Sou graduada em processos gerenciais
 - Atualmente estou fazendo um curso de desenvolvimento full stack
