@@ -1,5 +1,5 @@
 ## Olá!
-## Bem vindo ao meu perfil GitHub 
+## Bem vindo ao meu perfil GitHub :relaxed:
 
 - Graduada em processos gerenciais 🎓
 - Cursando análise e desenvolvimento de sistema 💻 e desenvolvimento full stack 👩‍💻
