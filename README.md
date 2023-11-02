@@ -2,7 +2,8 @@
 ## Bem vindo ao meu perfil GitHub 🤗
 
 - Graduada em processos gerenciais 🎓
-- Cursando análise e desenvolvimento de sistema 💻 e desenvolvimento full stack 👩‍💻
+- Cursando análise e desenvolvimento de sistema 💻
+- Curso profissionalizante de desenvolvimento full stack 👩‍💻
 
 - ## Contato
 
