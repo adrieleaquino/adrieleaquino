@@ -10,7 +10,7 @@
   
 
  - ## Contato
-<a href= "https://www.linkedin.com/in/adriele-oliveiraaquino/"></a>
+<a href= "https://www.linkedin.com/in/adriele-oliveiraaquino/" src=""></a>
  
 
   Obrigada pela visita.
