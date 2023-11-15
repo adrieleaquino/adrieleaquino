@@ -1,17 +1,18 @@
-## Olá!👋
-## Bem vindo ao meu GitHub!
+  ## Olá!👋
+  ## Bem vindo ao meu GitHub!
 
   Um pouco sobre mim:
-- Graduada em processos gerenciais 🎓
-- Cursando análise e desenvolvimento de sistema 💻
-- Curso profissionalizante de desenvolvimento full-stack 👩‍💻
-- Dev em formação 📚
+  Graduada em Processos Gerenciais 🎓. Estudante de Análise e Desenvolvimento de Sistemas na Universidade UniCesumar 💻, e atualmente estou focada em aprimorar minhas habilidades como 
+  desenvolvedora. Estou cursando o Curso de Desenvolvimento Full-Stack na Digital College Brasil 👩‍💻.
   
-  Apaixonada por tecnologia💜
+  Uma Dev em formação 📚 apaixonada por tecnologia💜
   
-- ## Contato
 
-<a href="https://www.linkedin.com/in/adriele-oliveira-275251191/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ - ## Contato
+
+ <a href="https://www.linkedin.com/in/adriele-oliveira-275251191/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the- 
+   badge&logo=linkedin&logoColor=white" target="_blank"></a>
+![dev](https://github.com/adrieleaquino/adrieleaquino/assets/110426119/13dd0e61-549c-4be3-836d-e775bdae0c9a)
 
 
-Obrigada pela visita.
+  Obrigada pela visita.
