@@ -1,4 +1,4 @@
-![imgem](https://github.com/adrieleaquino/adrieleaquino/assets/110426119/caf91e95-2b50-424c-b0b7-e449ef44c3fc)
+![imgem widht: 50px](https://github.com/adrieleaquino/adrieleaquino/assets/110426119/caf91e95-2b50-424c-b0b7-e449ef44c3fc)
 
   
   ## Olá!👋
