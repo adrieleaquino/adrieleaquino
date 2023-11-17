@@ -5,12 +5,12 @@
   ## Bem vindo ao meu GitHub!
   
 
-  Sou graduada em Processos Gerenciais 🎓.
-  Estudante de Análise e Desenvolvimento de Sistemas na Universidade UniCesumar 💻, e atualmente estou focada 
-  em aprimorar minhas habilidades como desenvolvedora.
-  Estou cursando o curso de Desenvolvimento Full-Stack na Digital College Brasil 👩‍💻.
+  - Sou graduada em Processos Gerenciais 🎓.
+  - Estudante de Análise e Desenvolvimento de Sistemas na Universidade UniCesumar 💻, e atualmente estou focada 
+    em aprimorar minhas habilidades como desenvolvedora.
+  - Estou cursando Desenvolvimento Full-Stack na Digital College Brasil 👩‍💻.
  
-  Dev em formação 📚 apaixonada por tecnologia💜
+   Dev em formação 📚 apaixonada por tecnologia💜
   
-  Obrigada pela visita.
+   Obrigada pela visita.
   
